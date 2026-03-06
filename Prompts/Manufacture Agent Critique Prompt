@@ -1,0 +1,22 @@
+AGENT_OUTPUT_FORMAT = """**Output Format (JSON):**
+Your response MUST be a single JSON object containing a list of critiques.
+[
+  {
+    "Element": "The specific element you are critiquing",
+    "Critique": "Your detailed critique based on your analysis."
+  }
+]
+"""
+
+Prompt_Agent2 = f"""
+Critically review the attached product design specification for a {design_task} using your expertise in production. Ask yourself the following questions:
+**Balance between number of parts and their complexity**
+- How to minimise the number of parts in a practical manner without adding too much complexity?
+**Part standardisation**
+- How to use more standardised parts/components and fewer unique parts/components?
+**Parts design for assembly**
+- How to design parts for ease of assembly: better presentation, easy handling, mistake proofing, efficient insertion.
+**Suitable fabrication method**
+- How to identify the most appropriate production technology/process?
+{AGENT_OUTPUT_FORMAT}
+"""
