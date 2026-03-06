@@ -1,0 +1,1278 @@
+Category,Subcategory,Term
+Materials,metals_alloys,aluminum
+Materials,metals_alloys,aluminium
+Materials,metals_alloys,steel
+Materials,metals_alloys,stainless steel
+Materials,metals_alloys,stainless
+Materials,metals_alloys,carbon steel
+Materials,metals_alloys,alloy steel
+Materials,metals_alloys,iron
+Materials,metals_alloys,cast iron
+Materials,metals_alloys,copper
+Materials,metals_alloys,brass
+Materials,metals_alloys,bronze
+Materials,metals_alloys,titanium
+Materials,metals_alloys,magnesium
+Materials,metals_alloys,zinc
+Materials,metals_alloys,nickel
+Materials,metals_alloys,chromium
+Materials,metals_alloys,tungsten
+Materials,metals_alloys,cobalt
+Materials,metals_alloys,tin
+Materials,metals_alloys,lead
+Materials,metals_alloys,silver
+Materials,metals_alloys,gold
+Materials,metals_alloys,aluminum 6061
+Materials,metals_alloys,aluminum 7075
+Materials,metals_alloys,al 6061
+Materials,metals_alloys,al 7075
+Materials,metals_alloys,steel 304
+Materials,metals_alloys,steel 316
+Materials,metals_alloys,304 stainless
+Materials,metals_alloys,316 stainless
+Materials,metals_alloys,a36 steel
+Materials,metals_alloys,1018 steel
+Materials,metals_alloys,4140 steel
+Materials,metals_alloys,mild steel
+Materials,metals_alloys,hardened steel
+Materials,metals_alloys,tool steel
+Materials,metals_alloys,spring steel
+Materials,metals_alloys,galvanized steel
+Materials,metals_alloys,alloy
+Materials,metals_alloys,ferrous
+Materials,metals_alloys,non-ferrous
+Materials,metals_alloys,metallic
+Materials,metals_alloys,intermetallic
+Materials,metals_alloys,annealed
+Materials,metals_alloys,tempered
+Materials,metals_alloys,heat-treated
+Materials,metals_alloys,cold-rolled
+Materials,metals_alloys,hot-rolled
+Materials,metals_alloys,high-strength
+Materials,metals_alloys,corrosion-resistant
+Materials,metals_alloys,marine-grade
+Materials,metals_alloys,food-grade
+Materials,polymers_plastics,plastic
+Materials,polymers_plastics,polymer
+Materials,polymers_plastics,thermoplastic
+Materials,polymers_plastics,thermoset
+Materials,polymers_plastics,elastomer
+Materials,polymers_plastics,resin
+Materials,polymers_plastics,rubber
+Materials,polymers_plastics,polypropylene
+Materials,polymers_plastics,pp
+Materials,polymers_plastics,pp-h
+Materials,polymers_plastics,polypropylene homopolymer
+Materials,polymers_plastics,polyethylene
+Materials,polymers_plastics,pe
+Materials,polymers_plastics,hdpe
+Materials,polymers_plastics,ldpe
+Materials,polymers_plastics,lldpe
+Materials,polymers_plastics,high-density polyethylene
+Materials,polymers_plastics,low-density polyethylene
+Materials,polymers_plastics,polystyrene
+Materials,polymers_plastics,ps
+Materials,polymers_plastics,expanded polystyrene
+Materials,polymers_plastics,eps
+Materials,polymers_plastics,polyvinyl chloride
+Materials,polymers_plastics,pvc
+Materials,polymers_plastics,rigid pvc
+Materials,polymers_plastics,flexible pvc
+Materials,polymers_plastics,polyethylene terephthalate
+Materials,polymers_plastics,pet
+Materials,polymers_plastics,petg
+Materials,polymers_plastics,rpet
+Materials,polymers_plastics,polycarbonate
+Materials,polymers_plastics,pc
+Materials,polymers_plastics,acrylonitrile butadiene styrene
+Materials,polymers_plastics,abs
+Materials,polymers_plastics,abs plastic
+Materials,polymers_plastics,polyamide
+Materials,polymers_plastics,pa
+Materials,polymers_plastics,nylon
+Materials,polymers_plastics,nylon 6
+Materials,polymers_plastics,nylon 66
+Materials,polymers_plastics,pa6
+Materials,polymers_plastics,pa66
+Materials,polymers_plastics,polyoxymethylene
+Materials,polymers_plastics,pom
+Materials,polymers_plastics,acetal
+Materials,polymers_plastics,delrin
+Materials,polymers_plastics,polytetrafluoroethylene
+Materials,polymers_plastics,ptfe
+Materials,polymers_plastics,teflon
+Materials,polymers_plastics,polyurethane
+Materials,polymers_plastics,pu
+Materials,polymers_plastics,tpu
+Materials,polymers_plastics,thermoplastic polyurethane
+Materials,polymers_plastics,silicone
+Materials,polymers_plastics,silicone rubber
+Materials,polymers_plastics,epdm
+Materials,polymers_plastics,nbr
+Materials,polymers_plastics,viton
+Materials,polymers_plastics,natural rubber
+Materials,polymers_plastics,synthetic rubber
+Materials,polymers_plastics,elastomeric
+Materials,polymers_plastics,glass-filled
+Materials,polymers_plastics,carbon-filled
+Materials,polymers_plastics,mineral-filled
+Materials,polymers_plastics,fiber-reinforced
+Materials,polymers_plastics,impact-modified
+Materials,polymers_plastics,uv-stabilized
+Materials,polymers_plastics,flame-retardant
+Materials,polymers_plastics,food-safe
+Materials,polymers_plastics,food-grade
+Materials,polymers_plastics,medical-grade
+Materials,polymers_plastics,bio-based
+Materials,polymers_plastics,bio-plastic
+Materials,polymers_plastics,pla
+Materials,polymers_plastics,polylactic acid
+Materials,composites,composite
+Materials,composites,carbon fiber
+Materials,composites,carbon fibre
+Materials,composites,cfrp
+Materials,composites,glass fiber
+Materials,composites,glass fibre
+Materials,composites,fiberglass
+Materials,composites,fibreglass
+Materials,composites,gfrp
+Materials,composites,aramid
+Materials,composites,kevlar
+Materials,composites,fiber-reinforced polymer
+Materials,composites,frp
+Materials,composites,sandwich panel
+Materials,composites,honeycomb
+Materials,composites,honeycomb core
+Materials,composites,laminate
+Materials,composites,woven
+Materials,composites,non-woven
+Materials,composites,unidirectional
+Materials,composites,bidirectional
+Materials,ceramics_advanced,ceramic
+Materials,ceramics_advanced,alumina
+Materials,ceramics_advanced,aluminum oxide
+Materials,ceramics_advanced,zirconia
+Materials,ceramics_advanced,silicon carbide
+Materials,ceramics_advanced,sic
+Materials,ceramics_advanced,silicon nitride
+Materials,ceramics_advanced,si3n4
+Materials,ceramics_advanced,glass-ceramic
+Materials,ceramics_advanced,porcelain
+Materials,ceramics_advanced,borosilicate
+Materials,ceramics_advanced,graphene
+Materials,ceramics_advanced,carbon nanotube
+Materials,ceramics_advanced,cnt
+Materials,ceramics_advanced,nanomaterial
+Materials,ceramics_advanced,piezoelectric
+Materials,ceramics_advanced,pzt
+Materials,ceramics_advanced,smart material
+Materials,electronic_battery,lithium-ion
+Materials,electronic_battery,li-ion
+Materials,electronic_battery,lithium polymer
+Materials,electronic_battery,lipo
+Materials,electronic_battery,li-po
+Materials,electronic_battery,nickel-metal hydride
+Materials,electronic_battery,nimh
+Materials,electronic_battery,ni-mh
+Materials,electronic_battery,nickel-cadmium
+Materials,electronic_battery,nicd
+Materials,electronic_battery,ni-cd
+Materials,electronic_battery,alkaline
+Materials,electronic_battery,lead-acid
+Materials,electronic_battery,battery cell
+Materials,electronic_battery,18650
+Materials,electronic_battery,21700
+Materials,electronic_battery,prismatic cell
+Materials,electronic_battery,pouch cell
+Materials,electronic_battery,copper trace
+Materials,electronic_battery,pcb
+Materials,electronic_battery,printed circuit board
+Materials,electronic_battery,fr-4
+Materials,electronic_battery,fr4
+Materials,electronic_battery,solder
+Materials,electronic_battery,tin-lead
+Materials,electronic_battery,lead-free solder
+Materials,electronic_battery,sac
+Materials,electronic_battery,sac305
+Materials,electronic_battery,conductive
+Materials,electronic_battery,insulating
+Materials,electronic_battery,insulation
+Materials,electronic_battery,dielectric
+Materials,electronic_battery,semiconductor
+Materials,electronic_battery,silicon
+Materials,electronic_battery,mosfet
+Materials,electronic_battery,ic
+Materials,electronic_battery,integrated circuit
+Materials,electronic_battery,led
+Materials,electronic_battery,light-emitting diode
+Materials,electronic_battery,oled
+Materials,electronic_battery,lcd
+Materials,other_materials,wood
+Materials,other_materials,plywood
+Materials,other_materials,mdf
+Materials,other_materials,particle board
+Materials,other_materials,bamboo
+Materials,other_materials,cork
+Materials,other_materials,leather
+Materials,other_materials,genuine leather
+Materials,other_materials,synthetic leather
+Materials,other_materials,vegan leather
+Materials,other_materials,fabric
+Materials,other_materials,textile
+Materials,other_materials,cotton
+Materials,other_materials,polyester
+Materials,other_materials,nylon fabric
+Materials,other_materials,mesh
+Materials,other_materials,woven mesh
+Materials,other_materials,knit
+Materials,other_materials,glass
+Materials,other_materials,tempered glass
+Materials,other_materials,toughened glass
+Materials,other_materials,borosilicate glass
+Materials,other_materials,acrylic
+Materials,other_materials,pmma
+Materials,other_materials,plexiglass
+Materials,other_materials,perspex
+Materials,other_materials,adhesive
+Materials,other_materials,epoxy
+Materials,other_materials,cyanoacrylate
+Materials,other_materials,super glue
+Materials,other_materials,ca glue
+Materials,other_materials,hot melt
+Materials,other_materials,hot glue
+Materials,other_materials,pressure-sensitive adhesive
+Materials,other_materials,psa
+Materials,other_materials,lubricant
+Materials,other_materials,grease
+Materials,other_materials,oil
+Materials,other_materials,mineral oil
+Materials,other_materials,synthetic oil
+Materials,other_materials,coolant
+Materials,other_materials,refrigerant
+Materials,material_properties,tensile strength
+Materials,material_properties,yield strength
+Materials,material_properties,ultimate strength
+Materials,material_properties,compressive strength
+Materials,material_properties,shear strength
+Materials,material_properties,flexural strength
+Materials,material_properties,impact strength
+Materials,material_properties,hardness
+Materials,material_properties,rockwell
+Materials,material_properties,brinell
+Materials,material_properties,shore
+Materials,material_properties,toughness
+Materials,material_properties,ductility
+Materials,material_properties,brittleness
+Materials,material_properties,malleability
+Materials,material_properties,elasticity
+Materials,material_properties,plasticity
+Materials,material_properties,stiffness
+Materials,material_properties,young's modulus
+Materials,material_properties,youngs modulus
+Materials,material_properties,elastic modulus
+Materials,material_properties,shear modulus
+Materials,material_properties,poisson's ratio
+Materials,material_properties,poissons ratio
+Materials,material_properties,fatigue resistance
+Materials,material_properties,fatigue life
+Materials,material_properties,s-n curve
+Materials,material_properties,creep resistance
+Materials,material_properties,creep
+Materials,material_properties,stress relaxation
+Materials,material_properties,thermal conductivity
+Materials,material_properties,thermal expansion
+Materials,material_properties,coefficient of thermal expansion
+Materials,material_properties,cte
+Materials,material_properties,glass transition temperature
+Materials,material_properties,tg
+Materials,material_properties,melting point
+Materials,material_properties,tm
+Materials,material_properties,density
+Materials,material_properties,specific gravity
+Materials,material_properties,viscosity
+Materials,material_properties,melt flow index
+Materials,material_properties,mfi
+Materials,material_properties,durability
+Materials,material_properties,wear resistance
+Materials,material_properties,abrasion resistance
+Materials,material_properties,corrosion resistance
+Materials,material_properties,oxidation resistance
+Materials,material_properties,chemical resistance
+Materials,material_properties,solvent resistance
+Materials,material_properties,uv resistance
+Materials,material_properties,uv stabilized
+Materials,material_properties,weather resistance
+Materials,material_properties,moisture resistance
+Materials,material_properties,water resistance
+Materials,material_properties,waterproof
+Materials,material_properties,hydrophobic
+Materials,material_properties,hydrophilic
+Materials,material_properties,hygroscopic
+Manufacturing,forming_processes,injection molding
+Manufacturing,forming_processes,injection moulding
+Manufacturing,forming_processes,molding
+Manufacturing,forming_processes,moulding
+Manufacturing,forming_processes,blow molding
+Manufacturing,forming_processes,blow moulding
+Manufacturing,forming_processes,rotational molding
+Manufacturing,forming_processes,rotomolding
+Manufacturing,forming_processes,compression molding
+Manufacturing,forming_processes,transfer molding
+Manufacturing,forming_processes,extrusion
+Manufacturing,forming_processes,profile extrusion
+Manufacturing,forming_processes,co-extrusion
+Manufacturing,forming_processes,thermoforming
+Manufacturing,forming_processes,vacuum forming
+Manufacturing,forming_processes,pressure forming
+Manufacturing,forming_processes,die casting
+Manufacturing,forming_processes,high-pressure die casting
+Manufacturing,forming_processes,hpdc
+Manufacturing,forming_processes,sand casting
+Manufacturing,forming_processes,investment casting
+Manufacturing,forming_processes,lost-wax casting
+Manufacturing,forming_processes,permanent mold casting
+Manufacturing,forming_processes,centrifugal casting
+Manufacturing,forming_processes,continuous casting
+Manufacturing,forming_processes,forging
+Manufacturing,forming_processes,hot forging
+Manufacturing,forming_processes,cold forging
+Manufacturing,forming_processes,drop forging
+Manufacturing,forming_processes,stamping
+Manufacturing,forming_processes,metal stamping
+Manufacturing,forming_processes,progressive stamping
+Manufacturing,forming_processes,deep drawing
+Manufacturing,forming_processes,hydroforming
+Manufacturing,forming_processes,roll forming
+Manufacturing,forming_processes,bending
+Manufacturing,forming_processes,blanking
+Manufacturing,forming_processes,punching
+Manufacturing,forming_processes,piercing
+Manufacturing,forming_processes,shearing
+Manufacturing,forming_processes,sintering
+Manufacturing,forming_processes,powder metallurgy
+Manufacturing,forming_processes,pm
+Manufacturing,forming_processes,metal injection molding
+Manufacturing,forming_processes,mim
+Manufacturing,forming_processes,additive manufacturing
+Manufacturing,forming_processes,3d printing
+Manufacturing,forming_processes,am
+Manufacturing,forming_processes,selective laser sintering
+Manufacturing,forming_processes,sls
+Manufacturing,forming_processes,fused deposition modeling
+Manufacturing,forming_processes,fdm
+Manufacturing,forming_processes,fused filament fabrication
+Manufacturing,forming_processes,fff
+Manufacturing,forming_processes,stereolithography
+Manufacturing,forming_processes,sla
+Manufacturing,forming_processes,dlp
+Manufacturing,machining_processes,machining
+Manufacturing,machining_processes,cnc machining
+Manufacturing,machining_processes,cnc
+Manufacturing,machining_processes,computer numerical control
+Manufacturing,machining_processes,turning
+Manufacturing,machining_processes,lathe
+Manufacturing,machining_processes,facing
+Manufacturing,machining_processes,parting
+Manufacturing,machining_processes,milling
+Manufacturing,machining_processes,mill
+Manufacturing,machining_processes,end mill
+Manufacturing,machining_processes,face mill
+Manufacturing,machining_processes,side mill
+Manufacturing,machining_processes,drilling
+Manufacturing,machining_processes,drill
+Manufacturing,machining_processes,drill press
+Manufacturing,machining_processes,spot drill
+Manufacturing,machining_processes,boring
+Manufacturing,machining_processes,reaming
+Manufacturing,machining_processes,tapping
+Manufacturing,machining_processes,threading
+Manufacturing,machining_processes,thread cutting
+Manufacturing,machining_processes,grinding
+Manufacturing,machining_processes,surface grinding
+Manufacturing,machining_processes,cylindrical grinding
+Manufacturing,machining_processes,honing
+Manufacturing,machining_processes,lapping
+Manufacturing,machining_processes,polishing
+Manufacturing,machining_processes,buffing
+Manufacturing,machining_processes,broaching
+Manufacturing,machining_processes,sawing
+Manufacturing,machining_processes,band saw
+Manufacturing,machining_processes,circular saw
+Manufacturing,machining_processes,cutting
+Manufacturing,machining_processes,laser cutting
+Manufacturing,machining_processes,waterjet cutting
+Manufacturing,machining_processes,water jet
+Manufacturing,machining_processes,plasma cutting
+Manufacturing,machining_processes,oxy-fuel cutting
+Manufacturing,machining_processes,electrical discharge machining
+Manufacturing,machining_processes,edm
+Manufacturing,machining_processes,wire edm
+Manufacturing,machining_processes,sinker edm
+Manufacturing,machining_processes,electrochemical machining
+Manufacturing,machining_processes,ecm
+Manufacturing,machining_processes,deburring
+Manufacturing,machining_processes,chamfering
+Manufacturing,machining_processes,countersinking
+Manufacturing,machining_processes,counterboring
+Manufacturing,joining_processes,welding
+Manufacturing,joining_processes,weld
+Manufacturing,joining_processes,arc welding
+Manufacturing,joining_processes,mig welding
+Manufacturing,joining_processes,mig
+Manufacturing,joining_processes,tig welding
+Manufacturing,joining_processes,tig
+Manufacturing,joining_processes,gtaw
+Manufacturing,joining_processes,gmaw
+Manufacturing,joining_processes,spot welding
+Manufacturing,joining_processes,resistance spot welding
+Manufacturing,joining_processes,rsw
+Manufacturing,joining_processes,seam welding
+Manufacturing,joining_processes,resistance welding
+Manufacturing,joining_processes,ultrasonic welding
+Manufacturing,joining_processes,ultrasonic bonding
+Manufacturing,joining_processes,laser welding
+Manufacturing,joining_processes,friction welding
+Manufacturing,joining_processes,friction stir welding
+Manufacturing,joining_processes,fsw
+Manufacturing,joining_processes,brazing
+Manufacturing,joining_processes,braze
+Manufacturing,joining_processes,soldering
+Manufacturing,joining_processes,solder
+Manufacturing,joining_processes,wave soldering
+Manufacturing,joining_processes,reflow soldering
+Manufacturing,joining_processes,smt
+Manufacturing,joining_processes,surface mount
+Manufacturing,joining_processes,adhesive bonding
+Manufacturing,joining_processes,bonding
+Manufacturing,joining_processes,structural adhesive
+Manufacturing,joining_processes,contact adhesive
+Manufacturing,joining_processes,epoxy bonding
+Manufacturing,joining_processes,cyanoacrylate bonding
+Manufacturing,joining_processes,fastening
+Manufacturing,joining_processes,fastener
+Manufacturing,joining_processes,threaded fastener
+Manufacturing,joining_processes,screw
+Manufacturing,joining_processes,bolt
+Manufacturing,joining_processes,nut
+Manufacturing,joining_processes,washer
+Manufacturing,joining_processes,self-tapping screw
+Manufacturing,joining_processes,machine screw
+Manufacturing,joining_processes,cap screw
+Manufacturing,joining_processes,set screw
+Manufacturing,joining_processes,rivet
+Manufacturing,joining_processes,riveting
+Manufacturing,joining_processes,blind rivet
+Manufacturing,joining_processes,pop rivet
+Manufacturing,joining_processes,clinching
+Manufacturing,joining_processes,hemming
+Manufacturing,joining_processes,crimping
+Manufacturing,joining_processes,press-fit
+Manufacturing,joining_processes,interference fit
+Manufacturing,joining_processes,shrink fit
+Manufacturing,joining_processes,snap-fit
+Manufacturing,joining_processes,snap-together
+Manufacturing,joining_processes,cantilever snap
+Manufacturing,joining_processes,torsion snap
+Manufacturing,joining_processes,living hinge
+Manufacturing,joining_processes,integral hinge
+Manufacturing,joining_processes,assembly
+Manufacturing,joining_processes,manual assembly
+Manufacturing,joining_processes,automated assembly
+Manufacturing,joining_processes,robotic assembly
+Manufacturing,joining_processes,pick-and-place
+Manufacturing,joining_processes,subassembly
+Manufacturing,joining_processes,final assembly
+Manufacturing,joining_processes,kitting
+Manufacturing,surface_treatment,surface treatment
+Manufacturing,surface_treatment,surface finish
+Manufacturing,surface_treatment,finishing
+Manufacturing,surface_treatment,coating
+Manufacturing,surface_treatment,paint
+Manufacturing,surface_treatment,painting
+Manufacturing,surface_treatment,spray painting
+Manufacturing,surface_treatment,powder coating
+Manufacturing,surface_treatment,electrostatic powder coating
+Manufacturing,surface_treatment,electroplating
+Manufacturing,surface_treatment,plating
+Manufacturing,surface_treatment,anodizing
+Manufacturing,surface_treatment,anodising
+Manufacturing,surface_treatment,galvanizing
+Manufacturing,surface_treatment,galvanising
+Manufacturing,surface_treatment,hot-dip galvanizing
+Manufacturing,surface_treatment,chrome plating
+Manufacturing,surface_treatment,chromium plating
+Manufacturing,surface_treatment,hard chrome
+Manufacturing,surface_treatment,zinc plating
+Manufacturing,surface_treatment,nickel plating
+Manufacturing,surface_treatment,electroless nickel
+Manufacturing,surface_treatment,passivation
+Manufacturing,surface_treatment,chemical passivation
+Manufacturing,surface_treatment,polishing
+Manufacturing,surface_treatment,buffing
+Manufacturing,surface_treatment,grinding
+Manufacturing,surface_treatment,surface grinding
+Manufacturing,surface_treatment,blasting
+Manufacturing,surface_treatment,sandblasting
+Manufacturing,surface_treatment,bead blasting
+Manufacturing,surface_treatment,shot blasting
+Manufacturing,surface_treatment,shot peening
+Manufacturing,surface_treatment,tumbling
+Manufacturing,surface_treatment,vibratory finishing
+Manufacturing,surface_treatment,deburring
+Manufacturing,surface_treatment,electropolishing
+Manufacturing,surface_treatment,etching
+Manufacturing,surface_treatment,chemical etching
+Manufacturing,surface_treatment,acid etching
+Manufacturing,surface_treatment,laser etching
+Manufacturing,surface_treatment,laser marking
+Manufacturing,surface_treatment,engraving
+Manufacturing,surface_treatment,texturing
+Manufacturing,surface_treatment,knurling
+Manufacturing,surface_treatment,diamond knurling
+Manufacturing,surface_treatment,oxidation
+Manufacturing,surface_treatment,black oxide
+Manufacturing,surface_treatment,blackening
+Manufacturing,surface_treatment,phosphate coating
+Manufacturing,surface_treatment,phosphating
+Manufacturing,surface_treatment,parkerizing
+Manufacturing,surface_treatment,ceramic coating
+Manufacturing,surface_treatment,ptfe coating
+Manufacturing,surface_treatment,teflon coating
+Manufacturing,surface_treatment,uv coating
+Manufacturing,surface_treatment,clear coat
+Manufacturing,surface_treatment,lacquer
+Manufacturing,surface_treatment,varnish
+Manufacturing,manufacturing_parameters,draft angle
+Manufacturing,manufacturing_parameters,draft
+Manufacturing,manufacturing_parameters,wall thickness
+Manufacturing,manufacturing_parameters,nominal wall thickness
+Manufacturing,manufacturing_parameters,uniform wall thickness
+Manufacturing,manufacturing_parameters,rib
+Manufacturing,manufacturing_parameters,boss
+Manufacturing,manufacturing_parameters,gusset
+Manufacturing,manufacturing_parameters,fillet
+Manufacturing,manufacturing_parameters,radius
+Manufacturing,manufacturing_parameters,chamfer
+Manufacturing,manufacturing_parameters,taper
+Manufacturing,manufacturing_parameters,tolerance
+Manufacturing,manufacturing_parameters,dimensional tolerance
+Manufacturing,manufacturing_parameters,geometric tolerance
+Manufacturing,manufacturing_parameters,gd&t
+Manufacturing,manufacturing_parameters,geometric dimensioning and tolerancing
+Manufacturing,manufacturing_parameters,flatness
+Manufacturing,manufacturing_parameters,straightness
+Manufacturing,manufacturing_parameters,perpendicularity
+Manufacturing,manufacturing_parameters,parallelism
+Manufacturing,manufacturing_parameters,angularity
+Manufacturing,manufacturing_parameters,concentricity
+Manufacturing,manufacturing_parameters,coaxiality
+Manufacturing,manufacturing_parameters,roundness
+Manufacturing,manufacturing_parameters,circularity
+Manufacturing,manufacturing_parameters,cylindricity
+Manufacturing,manufacturing_parameters,profile
+Manufacturing,manufacturing_parameters,runout
+Manufacturing,manufacturing_parameters,total runout
+Manufacturing,manufacturing_parameters,surface roughness
+Manufacturing,manufacturing_parameters,ra
+Manufacturing,manufacturing_parameters,rz
+Manufacturing,manufacturing_parameters,rms
+Manufacturing,manufacturing_parameters,surface finish
+Manufacturing,manufacturing_parameters,clearance
+Manufacturing,manufacturing_parameters,interference
+Manufacturing,manufacturing_parameters,press fit
+Manufacturing,manufacturing_parameters,slip fit
+Manufacturing,manufacturing_parameters,running fit
+Manufacturing,manufacturing_parameters,sliding fit
+Manufacturing,manufacturing_parameters,transition fit
+Manufacturing,manufacturing_parameters,cycle time
+Manufacturing,manufacturing_parameters,cooling time
+Manufacturing,manufacturing_parameters,cure time
+Manufacturing,manufacturing_parameters,curing
+Manufacturing,manufacturing_parameters,dwell time
+Manufacturing,manufacturing_parameters,setup time
+Manufacturing,manufacturing_parameters,changeover time
+Manufacturing,manufacturing_parameters,production rate
+Manufacturing,manufacturing_parameters,throughput
+Manufacturing,manufacturing_parameters,takt time
+Manufacturing,manufacturing_parameters,oee
+Manufacturing,dfm_principles,design for manufacturing
+Manufacturing,dfm_principles,dfm
+Manufacturing,dfm_principles,design for assembly
+Manufacturing,dfm_principles,dfa
+Manufacturing,dfm_principles,dfma
+Manufacturing,dfm_principles,manufacturability
+Manufacturing,dfm_principles,producibility
+Manufacturing,dfm_principles,ease of manufacture
+Manufacturing,dfm_principles,part consolidation
+Manufacturing,dfm_principles,part reduction
+Manufacturing,dfm_principles,part count reduction
+Manufacturing,dfm_principles,self-locating
+Manufacturing,dfm_principles,self-jigging
+Manufacturing,dfm_principles,self-aligning
+Manufacturing,dfm_principles,poka-yoke
+Manufacturing,dfm_principles,mistake-proofing
+Manufacturing,dfm_principles,error-proofing
+Manufacturing,dfm_principles,foolproofing
+Manufacturing,dfm_principles,standardization
+Manufacturing,dfm_principles,standardisation
+Manufacturing,dfm_principles,standard parts
+Manufacturing,dfm_principles,modular design
+Manufacturing,dfm_principles,modularity
+Manufacturing,dfm_principles,platform design
+Manufacturing,dfm_principles,common parts
+Manufacturing,dfm_principles,interchangeable parts
+Manufacturing,dfm_principles,part commonality
+Manufacturing,dfm_principles,family mold
+Manufacturing,dfm_principles,family tool
+Manufacturing,dfm_principles,multi-cavity mold
+Manufacturing,dfm_principles,multi-cavity
+Manufacturing,dfm_principles,undercut
+Manufacturing,dfm_principles,side action
+Manufacturing,dfm_principles,lifter
+Manufacturing,dfm_principles,slider
+Manufacturing,dfm_principles,ejection
+Manufacturing,dfm_principles,ejector pin
+Manufacturing,dfm_principles,stripper plate
+Manufacturing,dfm_principles,demolding
+Manufacturing,dfm_principles,demoulding
+Manufacturing,dfm_principles,part ejection
+Manufacturing,dfm_principles,gate
+Manufacturing,dfm_principles,gate location
+Manufacturing,dfm_principles,gate type
+Manufacturing,dfm_principles,edge gate
+Manufacturing,dfm_principles,tab gate
+Manufacturing,dfm_principles,runner
+Manufacturing,dfm_principles,cold runner
+Manufacturing,dfm_principles,hot runner
+Manufacturing,dfm_principles,sprue
+Manufacturing,dfm_principles,flow length
+Manufacturing,dfm_principles,flow path
+Manufacturing,dfm_principles,fill pattern
+Manufacturing,dfm_principles,weld line
+Manufacturing,dfm_principles,knit line
+Manufacturing,dfm_principles,meld line
+Manufacturing,dfm_principles,sink mark
+Manufacturing,dfm_principles,void
+Manufacturing,dfm_principles,air trap
+Manufacturing,dfm_principles,gas trap
+Manufacturing,dfm_principles,warpage
+Manufacturing,dfm_principles,warping
+Manufacturing,dfm_principles,dimensional stability
+Manufacturing,dfm_principles,shrinkage
+Manufacturing,dfm_principles,shrink
+Manufacturing,dfm_principles,volumetric shrinkage
+Performance,power_energy,power
+Performance,power_energy,watt
+Performance,power_energy,w
+Performance,power_energy,wattage
+Performance,power_energy,kilowatt
+Performance,power_energy,kw
+Performance,power_energy,megawatt
+Performance,power_energy,mw
+Performance,power_energy,voltage
+Performance,power_energy,volt
+Performance,power_energy,v
+Performance,power_energy,vac
+Performance,power_energy,vdc
+Performance,power_energy,current
+Performance,power_energy,amp
+Performance,power_energy,ampere
+Performance,power_energy,a
+Performance,power_energy,ma
+Performance,power_energy,milliamp
+Performance,power_energy,resistance
+Performance,power_energy,ohm
+Performance,power_energy,impedance
+Performance,power_energy,reactance
+Performance,power_energy,capacitance
+Performance,power_energy,farad
+Performance,power_energy,uf
+Performance,power_energy,microfarad
+Performance,power_energy,inductance
+Performance,power_energy,henry
+Performance,power_energy,mh
+Performance,power_energy,millihenry
+Performance,power_energy,power consumption
+Performance,power_energy,power draw
+Performance,power_energy,power usage
+Performance,power_energy,power output
+Performance,power_energy,output power
+Performance,power_energy,rated output
+Performance,power_energy,power rating
+Performance,power_energy,rated power
+Performance,power_energy,nominal power
+Performance,power_energy,peak power
+Performance,power_energy,maximum power
+Performance,power_energy,continuous power
+Performance,power_energy,sustained power
+Performance,power_energy,standby power
+Performance,power_energy,idle power
+Performance,power_energy,sleep mode
+Performance,power_energy,off-mode power
+Performance,power_energy,energy efficiency
+Performance,power_energy,efficiency
+Performance,power_energy,efficiency rating
+Performance,power_energy,coefficient of performance
+Performance,power_energy,cop
+Performance,power_energy,energy efficiency ratio
+Performance,power_energy,eer
+Performance,power_energy,power factor
+Performance,power_energy,pf
+Performance,power_energy,reactive power
+Performance,power_energy,apparent power
+Performance,power_energy,real power
+Performance,power_energy,energy consumption
+Performance,power_energy,energy use
+Performance,power_energy,annual energy consumption
+Performance,power_energy,energy density
+Performance,power_energy,specific energy
+Performance,power_energy,gravimetric energy density
+Performance,power_energy,battery capacity
+Performance,power_energy,capacity
+Performance,power_energy,amp-hour
+Performance,power_energy,ah
+Performance,power_energy,mah
+Performance,power_energy,milliamp-hour
+Performance,power_energy,watt-hour
+Performance,power_energy,wh
+Performance,power_energy,kwh
+Performance,power_energy,kilowatt-hour
+Performance,power_energy,charge time
+Performance,power_energy,charging time
+Performance,power_energy,fast charging
+Performance,power_energy,quick charge
+Performance,power_energy,discharge rate
+Performance,power_energy,c-rate
+Performance,power_energy,discharge current
+Performance,power_energy,state of charge
+Performance,power_energy,soc
+Performance,power_energy,depth of discharge
+Performance,power_energy,dod
+Performance,mechanical_performance,torque
+Performance,mechanical_performance,newton-meter
+Performance,mechanical_performance,nm
+Performance,mechanical_performance,ft-lb
+Performance,mechanical_performance,foot-pound
+Performance,mechanical_performance,rotational speed
+Performance,mechanical_performance,rpm
+Performance,mechanical_performance,revolutions per minute
+Performance,mechanical_performance,angular velocity
+Performance,mechanical_performance,radians per second
+Performance,mechanical_performance,linear speed
+Performance,mechanical_performance,velocity
+Performance,mechanical_performance,m/s
+Performance,mechanical_performance,km/h
+Performance,mechanical_performance,mph
+Performance,mechanical_performance,acceleration
+Performance,mechanical_performance,deceleration
+Performance,mechanical_performance,g-force
+Performance,mechanical_performance,force
+Performance,mechanical_performance,newton
+Performance,mechanical_performance,n
+Performance,mechanical_performance,pound-force
+Performance,mechanical_performance,lbf
+Performance,mechanical_performance,kgf
+Performance,mechanical_performance,thrust
+Performance,mechanical_performance,propulsion
+Performance,mechanical_performance,tractive force
+Performance,mechanical_performance,load capacity
+Performance,mechanical_performance,load rating
+Performance,mechanical_performance,maximum load
+Performance,mechanical_performance,safe working load
+Performance,mechanical_performance,swl
+Performance,mechanical_performance,payload
+Performance,mechanical_performance,payload capacity
+Performance,mechanical_performance,carrying capacity
+Performance,mechanical_performance,lifting capacity
+Performance,mechanical_performance,lift force
+Performance,mechanical_performance,hoisting capacity
+Performance,mechanical_performance,bearing capacity
+Performance,mechanical_performance,bearing load
+Performance,mechanical_performance,radial load
+Performance,mechanical_performance,axial load
+Performance,mechanical_performance,breaking strength
+Performance,mechanical_performance,ultimate load
+Performance,mechanical_performance,failure load
+Performance,mechanical_performance,burst pressure
+Performance,mechanical_performance,proof pressure
+Performance,mechanical_performance,working pressure
+Performance,mechanical_performance,gearing
+Performance,mechanical_performance,gear ratio
+Performance,mechanical_performance,transmission ratio
+Performance,mechanical_performance,reduction ratio
+Performance,mechanical_performance,mechanical advantage
+Performance,mechanical_performance,leverage
+Performance,mechanical_performance,lever arm
+Performance,mechanical_performance,stroke length
+Performance,mechanical_performance,stroke
+Performance,mechanical_performance,throw
+Performance,mechanical_performance,travel distance
+Performance,mechanical_performance,travel range
+Performance,mechanical_performance,vibration
+Performance,mechanical_performance,oscillation
+Performance,mechanical_performance,frequency
+Performance,mechanical_performance,hz
+Performance,mechanical_performance,hertz
+Performance,mechanical_performance,amplitude
+Performance,mechanical_performance,peak-to-peak
+Performance,mechanical_performance,rms vibration
+Performance,mechanical_performance,resonance
+Performance,mechanical_performance,resonant frequency
+Performance,mechanical_performance,natural frequency
+Performance,mechanical_performance,damping
+Performance,mechanical_performance,damping ratio
+Performance,mechanical_performance,shock absorption
+Performance,mechanical_performance,shock resistance
+Performance,mechanical_performance,impact resistance
+Performance,mechanical_performance,impact load
+Performance,mechanical_performance,drop test
+Performance,mechanical_performance,drop height
+Performance,mechanical_performance,tumble test
+Performance,thermal_performance,temperature
+Performance,thermal_performance,temp
+Performance,thermal_performance,celsius
+Performance,thermal_performance,fahrenheit
+Performance,thermal_performance,kelvin
+Performance,thermal_performance,operating temperature
+Performance,thermal_performance,working temperature
+Performance,thermal_performance,temperature range
+Performance,thermal_performance,operating range
+Performance,thermal_performance,maximum temperature
+Performance,thermal_performance,max temp
+Performance,thermal_performance,upper limit
+Performance,thermal_performance,minimum temperature
+Performance,thermal_performance,min temp
+Performance,thermal_performance,lower limit
+Performance,thermal_performance,ambient temperature
+Performance,thermal_performance,room temperature
+Performance,thermal_performance,storage temperature
+Performance,thermal_performance,non-operating temperature
+Performance,thermal_performance,heating rate
+Performance,thermal_performance,heating speed
+Performance,thermal_performance,time to temperature
+Performance,thermal_performance,cooling rate
+Performance,thermal_performance,cooling speed
+Performance,thermal_performance,cooldown time
+Performance,thermal_performance,thermal response time
+Performance,thermal_performance,thermal time constant
+Performance,thermal_performance,heat dissipation
+Performance,thermal_performance,heat removal
+Performance,thermal_performance,heat rejection
+Performance,thermal_performance,thermal management
+Performance,thermal_performance,cooling system
+Performance,thermal_performance,heat sink
+Performance,thermal_performance,heatsink
+Performance,thermal_performance,heat transfer
+Performance,thermal_performance,heat flow
+Performance,thermal_performance,thermal resistance
+Performance,thermal_performance,convection
+Performance,thermal_performance,natural convection
+Performance,thermal_performance,forced convection
+Performance,thermal_performance,conduction
+Performance,thermal_performance,thermal conduction
+Performance,thermal_performance,radiation
+Performance,thermal_performance,thermal radiation
+Performance,thermal_performance,thermal efficiency
+Performance,thermal_performance,heating efficiency
+Performance,thermal_performance,carnot efficiency
+Performance,thermal_performance,heat loss
+Performance,thermal_performance,thermal loss
+Performance,thermal_performance,standby heat loss
+Performance,thermal_performance,thermal insulation
+Performance,thermal_performance,insulation value
+Performance,thermal_performance,r-value
+Performance,thermal_performance,u-value
+Performance,thermal_performance,thermal mass
+Performance,thermal_performance,heat capacity
+Performance,thermal_performance,specific heat
+Performance,thermal_performance,boiling point
+Performance,thermal_performance,bp
+Performance,thermal_performance,freezing point
+Performance,thermal_performance,fp
+Performance,thermal_performance,flash point
+Performance,thermal_performance,ignition temperature
+Performance,thermal_performance,auto-ignition
+Performance,fluid_flow,flow rate
+Performance,fluid_flow,flow
+Performance,fluid_flow,volumetric flow
+Performance,fluid_flow,volumetric flow rate
+Performance,fluid_flow,mass flow
+Performance,fluid_flow,mass flow rate
+Performance,fluid_flow,discharge rate
+Performance,fluid_flow,l/min
+Performance,fluid_flow,liters per minute
+Performance,fluid_flow,lpm
+Performance,fluid_flow,gpm
+Performance,fluid_flow,gallons per minute
+Performance,fluid_flow,m3/h
+Performance,fluid_flow,cubic meters per hour
+Performance,fluid_flow,cfm
+Performance,fluid_flow,cubic feet per minute
+Performance,fluid_flow,pumping capacity
+Performance,fluid_flow,pump rate
+Performance,fluid_flow,delivery rate
+Performance,fluid_flow,pressure
+Performance,fluid_flow,static pressure
+Performance,fluid_flow,dynamic pressure
+Performance,fluid_flow,total pressure
+Performance,fluid_flow,head
+Performance,fluid_flow,head pressure
+Performance,fluid_flow,pressure head
+Performance,fluid_flow,total head
+Performance,fluid_flow,suction
+Performance,fluid_flow,suction pressure
+Performance,fluid_flow,suction head
+Performance,fluid_flow,negative pressure
+Performance,fluid_flow,vacuum
+Performance,fluid_flow,vacuum pressure
+Performance,fluid_flow,vacuum level
+Performance,fluid_flow,positive pressure
+Performance,fluid_flow,gauge pressure
+Performance,fluid_flow,absolute pressure
+Performance,fluid_flow,psi
+Performance,fluid_flow,pounds per square inch
+Performance,fluid_flow,bar
+Performance,fluid_flow,kpa
+Performance,fluid_flow,kilopascal
+Performance,fluid_flow,pascal
+Performance,fluid_flow,pa
+Performance,fluid_flow,mmhg
+Performance,fluid_flow,millibar
+Performance,fluid_flow,mbar
+Performance,fluid_flow,fluid dynamics
+Performance,fluid_flow,flow behavior
+Performance,fluid_flow,flow characteristics
+Performance,fluid_flow,turbulent flow
+Performance,fluid_flow,turbulence
+Performance,fluid_flow,laminar flow
+Performance,fluid_flow,reynolds number
+Performance,fluid_flow,re
+Performance,fluid_flow,flow regime
+Performance,fluid_flow,viscosity
+Performance,fluid_flow,dynamic viscosity
+Performance,fluid_flow,kinematic viscosity
+Performance,fluid_flow,flow resistance
+Performance,fluid_flow,hydraulic resistance
+Performance,fluid_flow,friction loss
+Performance,fluid_flow,pressure drop
+Performance,fluid_flow,head loss
+Performance,fluid_flow,pressure gradient
+Performance,fluid_flow,cavitation
+Performance,fluid_flow,vapor lock
+Performance,fluid_flow,aeration
+Performance,fluid_flow,entrained air
+Performance,fluid_flow,airflow
+Performance,fluid_flow,air watts
+Performance,fluid_flow,aw
+Performance,acoustic_performance,noise
+Performance,acoustic_performance,sound
+Performance,acoustic_performance,acoustic
+Performance,acoustic_performance,acoustics
+Performance,acoustic_performance,sound level
+Performance,acoustic_performance,noise level
+Performance,acoustic_performance,sound pressure level
+Performance,acoustic_performance,spl
+Performance,acoustic_performance,decibel
+Performance,acoustic_performance,db
+Performance,acoustic_performance,db(a)
+Performance,acoustic_performance,dba
+Performance,acoustic_performance,a-weighted
+Performance,acoustic_performance,db(c)
+Performance,acoustic_performance,dbc
+Performance,acoustic_performance,c-weighted
+Performance,acoustic_performance,acoustic power
+Performance,acoustic_performance,sound power
+Performance,acoustic_performance,sound power level
+Performance,acoustic_performance,swl
+Performance,acoustic_performance,quiet
+Performance,acoustic_performance,silent
+Performance,acoustic_performance,whisper-quiet
+Performance,acoustic_performance,low-noise
+Performance,acoustic_performance,noise reduction
+Performance,acoustic_performance,noise cancellation
+Performance,acoustic_performance,noise suppression
+Performance,acoustic_performance,sound dampening
+Performance,acoustic_performance,sound damping
+Performance,acoustic_performance,vibration damping
+Performance,acoustic_performance,acoustic insulation
+Performance,acoustic_performance,sound insulation
+Performance,acoustic_performance,soundproofing
+Performance,acoustic_performance,vibration isolation
+Performance,acoustic_performance,isolator
+Performance,acoustic_performance,anti-vibration
+Performance,dimensional_spatial,dimension
+Performance,dimensional_spatial,size
+Performance,dimensional_spatial,dimensions
+Performance,dimensional_spatial,length
+Performance,dimensional_spatial,width
+Performance,dimensional_spatial,height
+Performance,dimensional_spatial,depth
+Performance,dimensional_spatial,thickness
+Performance,dimensional_spatial,diameter
+Performance,dimensional_spatial,dia
+Performance,dimensional_spatial,bore
+Performance,dimensional_spatial,inner diameter
+Performance,dimensional_spatial,outer diameter
+Performance,dimensional_spatial,radius
+Performance,dimensional_spatial,circumference
+Performance,dimensional_spatial,perimeter
+Performance,dimensional_spatial,area
+Performance,dimensional_spatial,surface area
+Performance,dimensional_spatial,cross-sectional area
+Performance,dimensional_spatial,volume
+Performance,dimensional_spatial,volumetric
+Performance,dimensional_spatial,cubic capacity
+Performance,dimensional_spatial,capacity
+Performance,dimensional_spatial,displacement
+Performance,dimensional_spatial,swept volume
+Performance,dimensional_spatial,footprint
+Performance,dimensional_spatial,floor space
+Performance,dimensional_spatial,base area
+Performance,dimensional_spatial,envelope
+Performance,dimensional_spatial,overall dimensions
+Performance,dimensional_spatial,bounding box
+Performance,dimensional_spatial,clearance
+Performance,dimensional_spatial,headroom
+Performance,dimensional_spatial,ground clearance
+Performance,dimensional_spatial,reach
+Performance,dimensional_spatial,working reach
+Performance,dimensional_spatial,range of motion
+Performance,dimensional_spatial,rom
+Performance,dimensional_spatial,workspace
+Performance,dimensional_spatial,work envelope
+Performance,dimensional_spatial,operating space
+Performance,dimensional_spatial,turning radius
+Performance,dimensional_spatial,turning circle
+Performance,dimensional_spatial,minimum turning radius
+Performance,dimensional_spatial,wheelbase
+Performance,dimensional_spatial,track width
+Performance,dimensional_spatial,stance
+Performance,operational_characteristics,speed
+Performance,operational_characteristics,operating speed
+Performance,operational_characteristics,velocity
+Performance,operational_characteristics,rate
+Performance,operational_characteristics,throughput
+Performance,operational_characteristics,output
+Performance,operational_characteristics,productivity
+Performance,operational_characteristics,production rate
+Performance,operational_characteristics,cycle time
+Performance,operational_characteristics,cycle
+Performance,operational_characteristics,cycles per minute
+Performance,operational_characteristics,cpm
+Performance,operational_characteristics,response time
+Performance,operational_characteristics,reaction time
+Performance,operational_characteristics,lag
+Performance,operational_characteristics,latency
+Performance,operational_characteristics,startup time
+Performance,operational_characteristics,start time
+Performance,operational_characteristics,boot time
+Performance,operational_characteristics,warmup time
+Performance,operational_characteristics,warm-up period
+Performance,operational_characteristics,preheat time
+Performance,operational_characteristics,settling time
+Performance,operational_characteristics,stabilization time
+Performance,operational_characteristics,recovery time
+Performance,operational_characteristics,reset time
+Performance,operational_characteristics,cooldown
+Performance,operational_characteristics,precision
+Performance,operational_characteristics,accuracy
+Performance,operational_characteristics,repeatability
+Performance,operational_characteristics,reproducibility
+Performance,operational_characteristics,resolution
+Performance,operational_characteristics,sensitivity
+Performance,operational_characteristics,detection limit
+Performance,operational_characteristics,linearity
+Performance,operational_characteristics,hysteresis
+Performance,operational_characteristics,drift
+Performance,operational_characteristics,offset drift
+Performance,operational_characteristics,stability
+Performance,operational_characteristics,long-term stability
+Performance,operational_characteristics,temperature stability
+Performance,operational_characteristics,consistency
+Performance,operational_characteristics,uniformity
+Performance,operational_characteristics,variation
+Performance,operational_characteristics,control
+Performance,operational_characteristics,controllability
+Performance,operational_characteristics,regulation
+Performance,operational_characteristics,adjustment
+Performance,operational_characteristics,adjustability
+Performance,operational_characteristics,tuning
+Performance,operational_characteristics,tunability
+Performance,operational_characteristics,calibration
+Performance,operational_characteristics,calibrated
+Performance,operational_characteristics,factory calibrated
+Performance,operational_characteristics,set point
+Performance,operational_characteristics,setpoint
+Performance,operational_characteristics,target value
+Performance,operational_characteristics,dead band
+Performance,operational_characteristics,deadband
+Performance,operational_characteristics,dead zone
+Performance,operational_characteristics,overshoot
+Performance,operational_characteristics,undershoot
+Performance,operational_characteristics,ringing
+Performance,operational_characteristics,oscillation
+Performance,operational_characteristics,safety
+Performance,operational_characteristics,leakage
+Performance,operational_characteristics,filtration
+Performance,operational_characteristics,hepa
+Standards,organizations,iso
+Standards,organizations,iec
+Standards,organizations,ieee
+Standards,organizations,astm
+Standards,organizations,sae
+Standards,organizations,ansi
+Standards,organizations,din
+Standards,organizations,bs
+Standards,organizations,en
+Standards,organizations,jis
+Standards,organizations,csa
+Standards,organizations,nfpa
+Standards,safety_standards,iec 60335
+Standards,safety_standards,iec60335
+Standards,safety_standards,ul
+Standards,safety_standards,ul certification
+Standards,safety_standards,ul listed
+Standards,safety_standards,ul recognized
+Standards,safety_standards,ce marking
+Standards,safety_standards,ce mark
+Standards,safety_standards,ce certified
+Standards,safety_standards,ce conformity
+Standards,safety_standards,fcc
+Standards,safety_standards,fcc compliance
+Standards,safety_standards,fcc certified
+Standards,safety_standards,emc
+Standards,safety_standards,electromagnetic compatibility
+Standards,safety_standards,emc directive
+Standards,safety_standards,rohs
+Standards,safety_standards,rohs compliant
+Standards,safety_standards,rohs directive
+Standards,safety_standards,reach
+Standards,safety_standards,reach compliance
+Standards,safety_standards,reach regulation
+Standards,safety_standards,california prop 65
+Standards,safety_standards,proposition 65
+Standards,safety_standards,prop65
+Standards,safety_standards,ip rating
+Standards,safety_standards,ingress protection
+Standards,safety_standards,ip code
+Standards,safety_standards,ip67
+Standards,safety_standards,ip68
+Standards,safety_standards,ip65
+Standards,safety_standards,ip54
+Standards,safety_standards,waterproof
+Standards,safety_standards,water-resistant
+Standards,safety_standards,water resistant
+Standards,safety_standards,dustproof
+Standards,safety_standards,dust-resistant
+Standards,safety_standards,splash-proof
+Standards,safety_standards,splashproof
+Standards,safety_standards,electrical safety
+Standards,safety_standards,double insulation
+Standards,safety_standards,class i
+Standards,safety_standards,class ii
+Standards,safety_standards,ground fault
+Standards,safety_standards,gfci
+Standards,safety_standards,gfi
+Standards,safety_standards,overcurrent protection
+Standards,safety_standards,overload protection
+Standards,safety_standards,short circuit protection
+Standards,safety_standards,short-circuit
+Standards,safety_standards,thermal cutoff
+Standards,safety_standards,thermal fuse
+Standards,safety_standards,temperature cutoff
+Standards,safety_standards,overheat protection
+Standards,safety_standards,thermal protection
+Standards,safety_standards,flame retardant
+Standards,safety_standards,flame resistant
+Standards,safety_standards,ul94
+Standards,environmental_standards,energy star
+Standards,environmental_standards,eu ecodesign
+Standards,environmental_standards,ecodesign directive
+Standards,environmental_standards,erp
+Standards,environmental_standards,espr
+Standards,environmental_standards,weee
+Standards,environmental_standards,circular economy
+Standards,environmental_standards,circularity
+Standards,environmental_standards,circular design
+Standards,environmental_standards,extended producer responsibility
+Standards,environmental_standards,epr
+Standards,environmental_standards,recyclable
+Standards,environmental_standards,recyclability
+Standards,environmental_standards,recycled content
+Standards,environmental_standards,post-consumer recycled
+Standards,environmental_standards,pcr
+Standards,environmental_standards,post-consumer
+Standards,environmental_standards,post-industrial recycled
+Standards,environmental_standards,pir
+Standards,environmental_standards,post-industrial
+Standards,environmental_standards,biodegradable
+Standards,environmental_standards,biodegradability
+Standards,environmental_standards,compostable
+Standards,environmental_standards,renewable
+Standards,environmental_standards,sustainable
+Standards,environmental_standards,sustainability
+Standards,environmental_standards,eco-friendly
+Standards,environmental_standards,environmentally friendly
+Standards,environmental_standards,carbon neutral
+Standards,environmental_standards,carbon footprint
+Standards,environmental_standards,embodied carbon
+Standards,environmental_standards,embodied energy
+Standards,environmental_standards,life cycle assessment
+Standards,environmental_standards,lca
+Standards,environmental_standards,lifecycle assessment
+Standards,environmental_standards,cradle-to-cradle
+Standards,environmental_standards,c2c
+Standards,environmental_standards,cradle-to-grave
+Standards,quality_standards,iso 9001
+Standards,quality_standards,iso9001
+Standards,quality_standards,quality management system
+Standards,quality_standards,qms
+Standards,quality_standards,six sigma
+Standards,quality_standards,lean manufacturing
+Standards,quality_standards,lean
+Standards,quality_standards,total quality management
+Standards,quality_standards,tqm
+Standards,quality_standards,quality assurance
+Standards,quality_standards,qa
+Standards,quality_standards,quality control
+Standards,quality_standards,qc
+Standards,quality_standards,statistical process control
+Standards,quality_standards,spc
+Standards,quality_standards,failure mode and effects analysis
+Standards,quality_standards,fmea
+Standards,quality_standards,root cause analysis
+Standards,quality_standards,rca
+Standards,quality_standards,kaizen
+Standards,quality_standards,continuous improvement
+Standards,quality_standards,standard
+Standards,quality_standards,certification
+Standards,quality_standards,regulation
+Standards,quality_standards,compliance
+Standards,quality_standards,rating
+Standards,testing_certification,testing
+Standards,testing_certification,test
+Standards,testing_certification,qualification testing
+Standards,testing_certification,acceptance testing
+Standards,testing_certification,reliability testing
+Standards,testing_certification,durability testing
+Standards,testing_certification,endurance testing
+Standards,testing_certification,fatigue testing
+Standards,testing_certification,stress testing
+Standards,testing_certification,burn-in
+Standards,testing_certification,accelerated life testing
+Standards,testing_certification,alt
+Standards,testing_certification,environmental testing
+Standards,testing_certification,temperature cycling
+Standards,testing_certification,thermal cycling
+Standards,testing_certification,thermal shock
+Standards,testing_certification,humidity testing
+Standards,testing_certification,salt spray test
+Standards,testing_certification,uv exposure testing
+Standards,testing_certification,weathering test
+Standards,testing_certification,destructive testing
+Standards,testing_certification,non-destructive testing
+Standards,testing_certification,ndt
+Standards,testing_certification,certification
+Standards,testing_certification,certified
+Standards,testing_certification,compliance
+Standards,testing_certification,compliant
