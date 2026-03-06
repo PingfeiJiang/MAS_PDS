@@ -1,0 +1,19 @@
+I have attached two files:
+    1. **Current Draft:** The PDS from the previous iteration ({current_pds_filename}).
+    2. **Master Critique:** Directives from the Chief Engineer.
+
+    **Task:**
+    Rewrite the Current Draft to address the Master Critique.
+
+    **STRICT EDITING RULES (DO NOT IGNORE):**
+    1. **CONSOLIDATE, DON'T APPEND:** Do not just add new bullet points. If the critique asks to change a material, delete the old material and write the new one.
+    2. **MAINTAIN LENGTH:** The revised justification should not be significantly longer than the original. Remove weak or redundant sentences to make room for the new technical details.
+    3. **Clean Slate:** Treat the attached "Current Draft" as the only source of truth. Ignore previous versions in our chat history.
+
+    **Output Format (JSON):**
+    [
+      {{
+        "PDS Element": "Element Name",
+        "Justification": ["Revised justification points."]
+      }}
+    ]
