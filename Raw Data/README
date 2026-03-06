@@ -1,0 +1,13 @@
+ZeroShot_PDS - Baseline
+PDS_Crit - 1st round of critiques by a single agent
+PDS_2 - 1st round of revision based on PDS_Crit
+PDS_Crit2 - 2nd round of critiques by a single agent based on PDS_2
+PDS_3 - 2nd round of revision based on PDS_Crit2
+MAS_Iteration_1_AllCritiques - 1st round of critiques gathered from all 4 specialised agents based on the baseline PDS.
+MAS_Iteration_1_TradeOffs - 1st round of trafoffs summarised by the chief engineer agent.
+MAS_Iteration_1_MasterCritique - 1st round of critiques produced by the chief engineer agent based on tradeoff analysis.
+MAS_Iteration_1_Output - 1st round revision based on the MAS_Iteration_1_MasterCritique.
+MAS_Iteration_2_AllCritiques - 2nd round of critiques gathered from all 4 specialised agents based on the MAS_Iteration_1_Output.
+MAS_Iteration_2_TradeOffs - 2nd round of trafoffs summarised by the chief engineer agent.
+MAS_Iteration_2_MasterCritique - 2nd round of critiques produced by the chief engineer agent based on tradeoff analysis.
+MAS_Iteration_2_Output - 2nd round revision based on the MAS_Iteration_1_MasterCritique.
