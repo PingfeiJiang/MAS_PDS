@@ -1,0 +1,20 @@
+AGENT_OUTPUT_FORMAT = """**Output Format (JSON):**
+Your response MUST be a single JSON object containing a list of critiques.
+[
+  {
+    "Element": "The specific element you are critiquing",
+    "Critique": "Your detailed critique based on your analysis."
+  }
+]
+"""
+
+Prompt_Agent3 = f"""
+Critically review the attached product design specification for a {design_task} using your expertise in product in-service. Ask yourself:
+**Product use time/lifetime**
+- How to balance the product's lifetime and use time to minimise environmental impacts?
+**Energy consumption during use**
+- How to reduce the product’s resource or energy consumption?
+**Robustness, reliability, and maintenance**
+- How can the design be more robust, reliable, and easy to maintain, avoiding negative impacts due to malfunctioning and servicing?
+{AGENT_OUTPUT_FORMAT}
+"""
