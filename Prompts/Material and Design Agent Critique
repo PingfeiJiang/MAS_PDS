@@ -1,0 +1,22 @@
+AGENT_OUTPUT_FORMAT = """**Output Format (JSON):**
+Your response MUST be a single JSON object containing a list of critiques.
+[
+  {
+    "Element": "The specific element you are critiquing",
+    "Critique": "Your detailed critique based on your analysis."
+  }
+]
+"""
+
+Prompt_Agent1 = f"""
+Critically review the attached product design specification for a {design_task} using your expertise in material and design. Ask yourself the following questions:
+**Material origin**
+- Where are the materials used in the components and parts of a product originally sourced?
+- Are these materials from non-renewable or renewable resources?
+**Material property**
+- What about the toxicity, recyclability, and biodegradability of the materials?
+**Use of material**
+- What about the volume/weight of materials?
+- What about the number of types of materials involved?
+{AGENT_OUTPUT_FORMAT}
+"""
