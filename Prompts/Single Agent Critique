@@ -1,0 +1,12 @@
+Can you critically review the attached product design specification for a {design_task}.
+**Output Format (JSON):**
+Your response MUST be a single JSON object containing:
+1. The original list of product design specification elements.
+2. Your critiques under each product design specification element.
+**Example JSON Structure:**
+[
+  {{
+    "PDS Element": "A short phrase describing the product design specification element",
+    "Critique": ["A list of statements criticising the justified PDS elements in detail."]
+  }}
+]
