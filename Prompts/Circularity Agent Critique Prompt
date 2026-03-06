@@ -1,0 +1,22 @@
+AGENT_OUTPUT_FORMAT = """**Output Format (JSON):**
+Your response MUST be a single JSON object containing a list of critiques.
+[
+  {
+    "Element": "The specific element you are critiquing",
+    "Critique": "Your detailed critique based on your analysis."
+  }
+]
+"""
+
+Prompt_Agent4 = f"""
+Critically review the attached product design specification for a {design_task} using your expertise in product circularity. Ask yourself:
+**Reuse**
+- How can components and parts be designed to allow easy reuse without remanufacturing?
+**Recycling, remanufacturing, and repair**
+- How can components and parts be designed to allow easy recycling, remanufacturing, and repair?
+**Disposal**
+- How to minimise environmental impact at disposal?
+**Ease of disassembly**
+- How can components and parts be designed for easy disassembly at end-of-life?
+{AGENT_OUTPUT_FORMAT}
+"""
