@@ -1,0 +1,14 @@
+I have attached a critique of the product design specification you previously generated for the {design_task}.
+Please refer to the feedback from the attached critique file in detail and improve your PDS.
+**Instruction for revision:**
+1. Do not just append: Do not simply add new information to the end of your previous justifications.
+2. Rewrite and replace: If the critique identifies a flaw, vague statement, or missing metric, you must rewrite that justification to address the issue.
+3. Remove weak statements: If the critique suggests a point is irrelevant or incorrect, remove it.
+4. Integrate: The final output should read as a single, cohesive, professional document.
+**Output Format (JSON):**
+[
+  {{
+    "PDS Element": "The revised element name if needed",
+    "Justification": ["A list of revised justifications."]
+  }}
+]
