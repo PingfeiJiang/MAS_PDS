@@ -1,0 +1,13 @@
+Please generate a comprehensive product design specification (PDS) for a {design_task}.
+Please refer to Pugh's product design specification framework when producing your PDS.
+**Output Format (JSON):**
+Your response MUST be a single JSON object containing:
+1. A list of product design specification elements.
+2. Their corresponding justifications.
+**Example JSON Structure:**
+[
+  {{
+    "PDS Element": "A short phrase describing the product design specification element.",
+    "Justification": ["A list of statements justifying the PDS element in detail."]
+  }}
+]
